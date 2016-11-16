@@ -1,15 +1,11 @@
 ---
 layout: page
-title: About
+title: À propos
 permalink: /about/
 ---
 
-Some information about you!
+Un blog devant lequel on sirote un potage aux légumes.
 
-### More Information
+### Plus d'infos
 
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+On écrit des articles sur tout ce qui nous paraît pertinent. Si vous voulez contribuer, contactez-nous en commentaires, ou faites un pull request directement sur le repo.
