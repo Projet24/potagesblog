@@ -8,7 +8,7 @@ Si vous êtes ici, vous cherchez :
 - soit un blog traitant de la société, les nouvelles technologies,
 - soit une recette de potage aux légumes
 
-On va naturellement traiter ces deux demandes
+On va naturellement traiter ces deux demandes :smiley:
 
 ## 4 poireaux, une pomme de terre, et une pincée de sel
 > Qu'est-ce qu'il y a dedans ?
