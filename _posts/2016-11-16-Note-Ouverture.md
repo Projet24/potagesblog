@@ -25,7 +25,7 @@ C'est pas grave ! Certains articles seront assez pointus dans leur domaine, mai
 ## Laver, éplucher les légumes, et chauffer le tout à la casserole
 >Comment vous faites ?
 
-Pour écrire un article, on traine sur le web (réseaux sociaux, Wikipédia), on assiste à des conférences, on discute avec des gens cools... Ensuite on en discute, on écrit, on se relie, on publie, et surtout on en rediscute avec vous !
+Pour écrire un article, on traine sur le web (réseaux sociaux, Wikipédia), on assiste à des conférences, on discute avec des gens cools... Ensuite on en discute, on écrit, on se relit, on publie, et surtout on en rediscute avec vous !
 
 ## Note du chef
 Nous sommes des observateurs, tantôt philanthropes, tantôt désabusés, mais jamais censurés. Nos articles n'engagent que nous.
