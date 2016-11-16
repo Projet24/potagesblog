@@ -3,8 +3,6 @@ layout: post
 title: Recette du blog des Potages
 ---
 
-<!-- Etat : Brouillon -->
-
 Si vous êtes ici, vous cherchez :
 
 - soit un blog traitant de la société, les nouvelles technologies,
